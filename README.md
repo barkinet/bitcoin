@@ -83,3 +83,7 @@ Translations are periodically pulled from Transifex and merged into the git repo
 pull from Transifex would automatically overwrite them again.
 
 Translators should also subscribe to the [mailing list](https://groups.google.com/forum/#!forum/bitcoin-translators).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/barkinet/bitcoin/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
